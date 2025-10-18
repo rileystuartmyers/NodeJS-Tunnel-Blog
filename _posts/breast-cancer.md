@@ -1,13 +1,13 @@
 ---
 title: "Breast Cancer Neural Network! (Resnet101)"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/breast-cancer/cover.jpg"
 date: "2024-08-11"
 author:
   name: Stuart
   picture: "/assets/blog/authors/self2.jpg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/breast-cancer/cover.jpg"
 ---
 
 ## [__Click here for GitHub Repo.__](https://github.com/rileystuartmyers/Breast_Cancer_CNN)

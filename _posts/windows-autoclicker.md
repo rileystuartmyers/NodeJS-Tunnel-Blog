@@ -1,13 +1,13 @@
 ---
 title: "Windows Autoclicker Project"
 excerpt: "In order to satisfy my need of feeling like I'm getting things done, I recently got hooked on a few autogrinding games..."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/windows-autoclicker/cover.jpg"
 date: "2024-07-30"
 author:
   name: Stuart
   picture: "/assets/blog/authors/self2.jpg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/windows-autoclicker/cover.jpg"
 ---
 
 ## [__Click here for GitHub Repo.__](https://github.com/rileystuartmyers/Windows-Autoclicker-and-Shutdown)
