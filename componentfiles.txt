@@ -1,0 +1,14 @@
+Site header: /home/str/gitproj/blog-starter/src/app/_components/header.tsx
+
+Article LinkedIn Alert: /home/str/gitproj/blog-starter/src/app/_components/alert.tsx
+
+Site tab name and description (aka. metadata): /home/str/gitproj/blog-starter/src/app/layout.tsx
+
+Footer external links: /home/str/gitproj/blog-starter/src/app/_components/footer.tsx
+
+Sub-footer intro and summary: /home/str/gitproj/blog-starter/src/app/_components/intro.tsx
+
+
+##
+DATE IS YEAR-MONTH-DAY FORMAT
+##

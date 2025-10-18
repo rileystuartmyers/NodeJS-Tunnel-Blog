@@ -29,12 +29,14 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{" "}
+              Find me on{" "}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                href={`https://www.linkedin.com/in/riley-myers-8079741b8/`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
-                available on GitHub
+                LinkedIn!
               </a>
               .
             </>
