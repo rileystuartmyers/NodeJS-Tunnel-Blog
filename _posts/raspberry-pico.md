@@ -1,16 +1,16 @@
 ---
 title: "RC Car w/ Raspberry Pi (Pico)"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/raspberry-pico.md/cover.jpg"
+coverImage: "/assets/blog/raspberry-pico/cover.jpg"
 date: "2024-03-07"
 author:
   name: Stuart
   picture: "/assets/blog/authors/self2.jpg"
 ogImage:
-  url: "/assets/blog/raspberry-pico.md/cover.jpg"
+  url: "/assets/blog/raspberry-pico/cover.jpg"
 ---
 
-## [__Click here for GitHub Repo.__](https://github.com/rileystuartmyers/Raspberry-Pico-RC-car-with-display)
+## [__***Click here for GitHub Repo.***__](https://github.com/rileystuartmyers/Raspberry-Pico-RC-car-with-display)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
