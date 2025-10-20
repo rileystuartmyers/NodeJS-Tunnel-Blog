@@ -1,21 +1,36 @@
 ---
 title: "Breast Cancer Neural Network! (Resnet101)"
-excerpt: "As a final project for my Data Science 2 class, we were given the opportunity to create a large-scale neural network over any topic..."
-coverImage: "/assets/blog/breast-cancer/results.jpg"
+excerpt: "3rd Place Finalist in the 2024 HPE Data Science Showcase!"
+coverImage: "/assets/blog/breast-cancer/resultsfull.jpg"
 date: "2024-08-11"
 author:
   name: Stuart
   picture: "/assets/blog/authors/self2.jpg"
 ogImage:
-  url: "/assets/blog/breast-cancer/results.jpg"
+  url: "/assets/blog/breast-cancer/resultsfull.jpg"
 ---
 
 ## [__Click here for GitHub Repo.__](https://github.com/rileystuartmyers/Breast_Cancer_CNN)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+As a final project for my Data Science 2 class, we were to participate in the HPE Data Science Showcase 2024 and create a large-scale neural network over any topic. My group and I decided to tackle breast cancer detection!
+Spoiler: We won 3rd place!
 
-## Lorem Ipsum
+![Alt text](/assets/blog/breast-cancer/class.jpg)
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Over the span of two-ish months, my wonderful group and I developed and trained a neural network (based on ResNet101 model) to detect malignancy in XRAY images, which would ideally be used by oncologists in hospitals
+and cancer centers.
+
+Of course, I think oncologists with decades of experience in looking at and treating tumors would probably perform better at classifying images than this model... but can I download an oncologist?
+No. 
+![Alt text](/assets/blog/breast-cancer/smirk.jpg)
+
+In the display image at the top of this post, you'll see various accuracy graphs obtained throughout the models history. Each of the graphs represents the model with certain parameters being changed, such as batch size, trainability, learning rate, etc. This process, ***hyperparameter tuning***, is more or less a mass trial and error in finding the perfect settings for the model so that, in its learning phase, it extracts as much information from the Xray dataset as possible. The end results for the model were...
+## ~90% training accuracy.
+## ~65% testing accuracy.
+
+Not too bad!
+
+The project was a complete blast, all thanks to both my friends in DS2 along with my incredible professor, Dr. Rizk! I've added my groups project poster below if you care about that. You might not though, it's a lot of reading and the text is super small. Thanks!
+
+![Alt text](/assets/blog/breast-cancer/poster.jpg)

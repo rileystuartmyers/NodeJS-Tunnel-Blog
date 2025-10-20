@@ -1,6 +1,6 @@
 ---
 title: "RC Car w/ Raspberry Pi (Pico)"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "Microcontrollers!! Wooooooahhhh!!"
 coverImage: "/assets/blog/raspberry-pico/cover.jpg"
 date: "2024-03-07"
 author:
@@ -11,11 +11,18 @@ ogImage:
 ---
 
 ## [__***Click here for GitHub Repo.***__](https://github.com/rileystuartmyers/Raspberry-Pico-RC-car-with-display)
+Microcontrollers!! Wooooooahhhh!!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+This has been one of my favorite projects to-date, as it wasn't just programming intensive, but hardware intensive as well! 
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+This project makes use of the Raspberry Pi Pico, a super tiny microcontroller, or basically a lobotomized computer with no operating system.
+It's only responsible for running whatever program is stored in its 2MB of flash memory, meaning there's no native support for audio, video, internet connection,
+bluetooth, etc. without adding peripherals.
 
-## Lorem Ipsum
+So, as seen in the picture above, I did just that! I used two servo motors for the wheels on either side, a 7-segment LCD to display emoticons (0v0), 
+and an IR receiver that can be controlled by a generic IR remote (which I actually took from one of those RGB strip kits people use for their rooms.)
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+The RC car can be controlled through directional inputs, several predefined emoticon faces that the display can switch to, along with preset motions such as doing 360's and
+wiggling from side to side. 
+
+All in all it's pretty adorable (just don't look at the wiring.) GIFs found on my GitHub! Thanks!
