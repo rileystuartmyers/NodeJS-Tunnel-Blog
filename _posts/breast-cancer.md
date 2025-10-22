@@ -1,13 +1,14 @@
 ---
-title: "Breast Cancer Neural Network! (Resnet101)"
-excerpt: "3rd Place Finalist in the 2024 HPE Data Science Showcase!"
-coverImage: "/assets/blog/breast-cancer/resultsfull.jpg"
+title: "Placed 3rd at the 2024 HPE Data Science Showcase!"
+excerpt: "As a final project for my Data Science 2 class, we were to participate in the HPE Data Science Showcase 2024 and create a large-scale neural network over any topic. My group and I decided to tackle breast cancer detection!
+Spoiler: We won 3rd place!"
+coverImage: "/assets/blog/breast-cancer/HPE.jpg"
 date: "2024-08-11"
 author:
   name: Stuart
   picture: "/assets/blog/authors/self2.jpg"
 ogImage:
-  url: "/assets/blog/breast-cancer/resultsfull.jpg"
+  url: "/assets/blog/breast-cancer/HPE.jpg"
 ---
 
 ## [__Click here for GitHub Repo.__](https://github.com/rileystuartmyers/Breast_Cancer_CNN)
@@ -25,12 +26,19 @@ Of course, I think oncologists with decades of experience in looking at and trea
 No. 
 ![Alt text](/assets/blog/breast-cancer/smirk.jpg)
 
-In the display image at the top of this post, you'll see various accuracy graphs obtained throughout the models history. Each of the graphs represents the model with certain parameters being changed, such as batch size, trainability, learning rate, etc. This process, ***hyperparameter tuning***, is more or less a mass trial and error in finding the perfect settings for the model so that, in its learning phase, it extracts as much information from the Xray dataset as possible. The end results for the model were...
-## ~90% training accuracy.
-## ~65% testing accuracy.
+In the display image below, you'll see various accuracy graphs obtained throughout the models history. Each of the graphs represents the model with certain parameters being changed, such as batch size, trainability, learning rate, etc.
+
+![Alt text](/assets/blog/breast-cancer/resultsfull.jpg)
+
+This process, ***hyperparameter tuning***, is more or less a mass trial and error in finding the perfect settings for the model so that, in its learning phase, it extracts as much information from the Xray dataset as possible. The end results for the model were...
+
+# ~90% training accuracy.
+# ~65% testing accuracy.
 
 Not too bad!
 
 The project was a complete blast, all thanks to both my friends in DS2 along with my incredible professor, Dr. Rizk! I've added my groups project poster below if you care about that. You might not though, it's a lot of reading and the text is super small. Thanks!
 
 ![Alt text](/assets/blog/breast-cancer/poster.jpg)
+
+\-Stuart

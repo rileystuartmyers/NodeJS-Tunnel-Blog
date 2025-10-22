@@ -7,7 +7,7 @@ export function Intro() {
         stu4rt.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        My personal blog and portfolio, statically generated using Node JS. Hi!
+        My personal blog and portfolio. Feel free to check out my projects!
       </h4>
     </section>
   );

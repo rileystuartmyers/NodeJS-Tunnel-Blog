@@ -26,3 +26,5 @@ The RC car can be controlled through directional inputs, several predefined emot
 wiggling from side to side. 
 
 All in all it's pretty adorable (just don't look at the wiring.) GIFs found on my GitHub! Thanks!
+
+\-Stuart
