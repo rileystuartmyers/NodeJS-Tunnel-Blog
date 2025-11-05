@@ -1,7 +1,6 @@
 ---
 title: "Placed 3rd at the 2024 HPE Data Science Showcase!"
-excerpt: "As a final project for my Data Science 2 class, we were to participate in the HPE Data Science Showcase 2024 and create a large-scale neural network over any topic. My group and I decided to tackle breast cancer detection!
-Spoiler: We won 3rd place!"
+excerpt: "As a final project for my Data Science 2 class, we were to participate in the HPE Data Science Showcase 2024 and create a large-scale neural network over any topic. My group and I decided to tackle breast cancer detection! Spoiler: We won 3rd place!"
 coverImage: "/assets/blog/breast-cancer/HPE.jpg"
 date: "2024-08-11"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "Training AI to Identify Creatures in the Wild"
+title: "Training AI to Identify Animals in the Wild"
 excerpt: "A glimpse into an image classification task and how it's been automated."
 coverImage: "/assets/blog/ohio-smallanimals/deer.jpg"
 date: "2025-05-05"
