@@ -1,6 +1,6 @@
 ---
-title: "Sort Photos w/ Photo Sorter"
-excerpt: "Newly developed C# photo sorting software for Windows platforms!"
+title: "Photo Sorter: C# Photo Sorting Program!"
+excerpt: "Newly developed C# photo sorting software for Windows platforms! This software allows for users to easily and efficiently sort their large collections of photos into neatly labeled folders!"
 coverImage: "/assets/blog/photo-sorter/programScreenshot.jpg"
 date: "2025-08-30"
 author:
@@ -16,7 +16,7 @@ I've been working on a large machine learning model recently and encountered a p
 
 Obviously, this is a big setback as I'd need to sort these photos manually, and with such a large quantity it's bound to take a very long time.\
 
-And so, I developed this software that allows for users to easily and efficiently sort their large collections of photos into neatly labeled folders!\
+And so, I've developed this software that allows for users to easily and efficiently sort their large collections of photos into neatly labeled folders!\
 
 By choosing a source and destination directory, users can effortlessly switch between tasks if their images are sorted in different places.\
 

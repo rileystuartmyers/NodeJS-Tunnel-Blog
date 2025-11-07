@@ -1,6 +1,6 @@
 ---
-title: "Python Game Engine"
-excerpt: "Working on a 2D adventure game fully written in Python using Pygame!"
+title: "Game Engine in Python"
+excerpt: "Working on a 2D adventure game fully written in Python using Pygame! All aspects of this game engine were written completely in Python using the Pygame library, a fairly old but surprisingly robust suite of functions and classes designed for game creation."
 coverImage: "/assets/blog/pygame-game-engine/readmeDisplayImage.jpg"
 date: "2025-08-11"
 author:
