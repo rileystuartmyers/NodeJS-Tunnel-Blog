@@ -12,7 +12,7 @@ ogImage:
 
 ## [__Click here for GitHub Repo.__](https://github.com/rileystuartmyers/Pygame-Game-Engine)
 
-All aspects of this game engine were written completely in Python using the Pygame library, a fairly old and surprisingly robust suite of functions and classes designed for game creation.\
+All aspects of this game engine were written completely in Python using the Pygame library, a fairly old but surprisingly robust suite of functions and classes designed for game creation.\
 
 This is an ongoing project, so more content and updates will likely be coming in the future, since this couldn't really be considered a game just yet.\
 
